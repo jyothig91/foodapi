@@ -1,0 +1,11 @@
+.recipeimg{
+    height: 200px;
+    width:200px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+.recipename{
+    max-width: 200px;
+    text-align: center;
+    margin:12px 0px;
+}
